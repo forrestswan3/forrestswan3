@@ -30,8 +30,17 @@ I built and run the IT and operations backbone of a Florida insurance agency. Th
 
 ➡️ **All case studies: [forrestswan3.github.io/work](https://forrestswan3.github.io/work/)**
 
+### Open-source tools
+
+| Tool | What it does |
+|---|---|
+| [repo-privacy-scan](https://github.com/forrestswan3/repo-privacy-scan) | Finds staff names, internal hostnames, private IPs and secrets in full git history, build folders and live URLs before anything goes public (Python, zero dependencies) |
+| [naming-policy-validator](https://github.com/forrestswan3/naming-policy-validator) | Policy-as-code auditor that scores every file and folder name on a share against a JSON naming policy, with reason codes (Python) |
+| [wireguard-nonadmin-windows](https://github.com/forrestswan3/wireguard-nonadmin-windows) | Rolls out WireGuard VPN to Windows users without admin rights: install, limited operator UI, health check, offboarding (PowerShell) |
+| [business-hours-sla](https://github.com/forrestswan3/business-hours-sla) | Google Sheets custom functions for business-hours SLA reporting, skipping nights, weekends and holidays (Apps Script) |
+
 ### Currently building
 
 A remote print service for hybrid staff, and a self-hosted QA and compliance audit platform (PostgreSQL, n8n, Metabase).
 
-<sub>Project source code is private; walkthroughs are available on request. Case studies omit staff names, network details and client data.</sub>
+<sub>Agency project source code is private; walkthroughs are available on request. The open-source tools above are generic and contain no organization data. Case studies omit staff names, network details and client data.</sub>
