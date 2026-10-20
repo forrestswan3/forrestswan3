@@ -6,48 +6,62 @@
 
 *SystemSerenity: Operational clarity at scale.*
 
-I built and run the IT and operations backbone of a Florida insurance agency. That covers the firewall, VPN and file server, the IT budget and service desk, and the internal software the team works in every day: AI-assisted document intake, underwriting-notice triage, a staff portal with its own KPI and task trackers, and training and licensing apps.
+I built and run the IT and operations backbone of a Florida insurance agency: the firewall, VPN and file server; the IT budget and service desk; and the internal software the team works in every day — AI-assisted document intake, underwriting-notice triage, a staff portal with its own KPI and task trackers, and training and licensing apps. Everything below is generated from a private project tracker, so the numbers are current.
 
-[![Website](https://img.shields.io/badge/Website-forrestswan3.github.io-1D726C?style=flat-square)](https://forrestswan3.github.io/) [![Case studies](https://img.shields.io/badge/Case%20studies-20-2C9C95?style=flat-square)](https://forrestswan3.github.io/work/) [![Resume](https://img.shields.io/badge/Resume-PDF-0B1F33?style=flat-square)](https://forrestswan3.github.io/resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-forrestswan3-0A66C2?style=flat-square)](https://www.linkedin.com/in/forrestswan3/)
-
-### What I work on
-
-- **Infrastructure & security:** pfSense firewall administration, WireGuard VPN, least-privilege access, NAS storage (RAID, snapshots, off-site backups), business continuity, incident response
-- **Automation & AI:** Python, Google Apps Script, LLM integration (Claude API), Slack API, workflow automation, OCR, test automation (pytest, Playwright, Node)
-- **Data governance & compliance:** policy-as-code, file-naming compliance auditing, QA sampling and scoring, SOP and quick-reference-guide development
-- **IT operations:** budget ownership, procurement and vendor management, IT service desk and SLAs, asset lifecycle management, onboarding and offboarding, EOS scorecards
+[![Website](https://img.shields.io/badge/Website-forrestswan3.github.io-1D726C?style=flat-square)](https://forrestswan3.github.io/) [![Case studies](https://img.shields.io/badge/Case%20studies-20-2C9C95?style=flat-square)](https://forrestswan3.github.io/work/) [![Resume](https://img.shields.io/badge/Resume-PDF-0B1F33?style=flat-square)](https://forrestswan3.github.io/resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-forrestswan3-0A66C2?style=flat-square)](https://www.linkedin.com/in/forrestswan3/) [![Contact](https://img.shields.io/badge/Contact-forrestswan3.github.io%2Fcontact-3A6EA5?style=flat-square)](https://forrestswan3.github.io/contact/)
 
 ### This quarter
 
 <!-- gen:quarter -->
-**Q4 2026 · Oct 1 – Dec 31, 2026 · 21% of the quarter elapsed**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/quarter-dark.svg"><img src="assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 17 delivered (1 new systems, 16 improvements)" width="820"></picture>
 
-| Delivered this quarter | New systems shipped | Improvements to existing systems |
-|:---:|:---:|:---:|
-| **17** | **1** | **16** |
+<details><summary><b>Everything delivered in Q4 2026</b> (17) — click to expand</summary>
 
-**New:** [UPS Battery-Backup Rollout](https://forrestswan3.github.io/work/ups-backup-rollout/) (Oct 2026)
-**Improvements:** 10-13 [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.5 In Metrics · 10-14 [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.16 round-robin assign, to-do scheduled, merge any item · 10-14 [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.6.1 onboarding trend chart · 10-15 [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.17 mass auto-assign · 10-15 [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.10.2 agency-processes pages · 10-19 [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) — Web edition (Apps Script) live under Team Resources › Training · 10-19 [Apps Script Toolkit](https://forrestswan3.github.io/work/apps-script-toolkit/) — Hub v1.12 (9 change logs 2026-09-24..10-15) · 10-19 [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.12 Exam Training Program tile · and 8 more
+- 10/19 · [UPS Battery-Backup Rollout](https://forrestswan3.github.io/work/ups-backup-rollout/) — Shipped
+- 10/19 · [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) — Web edition (Apps Script) live under Team Resources › Training
+- 10/19 · [Apps Script Toolkit](https://forrestswan3.github.io/work/apps-script-toolkit/) — Hub v1.12 (9 change logs 2026-09-24..10-15)
+- 10/19 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.12 Exam Training Program tile
+- 10/15 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.17 mass auto-assign
+- 10/15 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.10.2 agency-processes pages
+- 10/14 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.16 round-robin assign, to-do scheduled, merge any item
+- 10/14 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.6.1 onboarding trend chart
+- 10/13 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.5 In Metrics
+- 10/09 · [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) — Scheduled tasks moved to hidden wrappers (no console windows)
+- 10/08 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.14 associated-with agent
+- 10/08 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Agency Handbook Training v1.0
+- 10/08 · [Documentation & Quick-Reference Guide Program](https://forrestswan3.github.io/work/documentation-program/) — Call Recording Scoring + Agency Handbook trainings
+- 10/07 · [Documentation & Quick-Reference Guide Program](https://forrestswan3.github.io/work/documentation-program/) — Core Process → Quick-Reference Guide rename
+- 10/02 · [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) — Scan Dashboard v1.4 two-year activity window
+- 10/02 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.4.1–v1.4.3 onboarding handling
+- 10/01 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.3 spreadsheet import
 
-<sub>Q3 2026: 21 delivered (11 new, 10 improvements). Counted from dated ship and release records in the private project tracker; regenerated on every tracker update.</sub>
+</details>
+
+<sub>Q3 2026: 21 delivered (11 new, 10 improvements). A delivery is a dated ship or release record in the private project tracker; the card regenerates on every tracker update.</sub>
+<!-- /gen -->
+
+### Portfolio
+
+<!-- gen:glance -->
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg"><img src="assets/glance-light.svg" alt="Portfolio at a glance: 20 case studies, 12 in production, 2 in progress, 4 open-source tools" width="820"></picture>
 <!-- /gen -->
 
 ### Featured case studies
 
 <!-- gen:featured -->
-| Project | Status | Impact |
-|---|---|---|
-| [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Turned an unenforced records policy into a measurable data-governance program. FileGate gives leadership an auditable compliance baseline across about 67,000 client files, targets the E&O exposure of misfiled records, and automates document intake with LLM field extraction while keeping humans in the loop for anything uncertain. |
-| [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Replaced an email inbox with an accountable, SLA-driven workflow. Every carrier underwriting notice becomes a tracked work item with an owner and a due date, protecting policy retention and giving leadership real-time visibility into what is past due. |
-| [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | A self-serve exam-prep product built to shorten the path from new hire to licensed, revenue-producing agent. It runs on locked-down, carrier-managed workstations with no installs, add-ins or cloud services, and gives each learner a projected score and per-domain analytics. |
-| [Agency Training Program](https://forrestswan3.github.io/work/training-program/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Standardized onboarding into one measurable program: consistent content, enforced mastery and automatic manager reporting, so training accountability no longer depends on manual follow-up. |
-| [Secure Remote Access — pfSense Firewall + WireGuard VPN](https://forrestswan3.github.io/work/pfsense-wireguard-vpn/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Delivered secure, zero-license-cost remote access for a hybrid workforce of 20+ users without granting local admin rights, and made VPN access part of the offboarding control set. |
-| [Agency File Server — QNAP NAS as System of Record](https://forrestswan3.github.io/work/qnap-nas/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Consolidated scattered client files into a single, access-controlled system of record, addressing data-loss, privacy and E&O exposure and making automated compliance scanning possible. |
-| [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Built the agency's IT function from zero: budget, service levels, vendor governance and device lifecycle, turning ad-hoc purchasing and support into a managed, accountable operation. |
-| [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Replaced an unvalidated spreadsheet tab with an accountable weekly process: every count has an owner, a snapshot date and an audit row, managers get a digest without chasing people, and the EOS scorecard updates itself from the same numbers. |
+| Project | Status | What it does | Proof |
+|---|:---:|---|---|
+| [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Policy-as-code audit of ~67,000 client files plus AI document intake with a human review queue | **67,240** items per production scan · **24 min** full scan run time |
+| [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Carrier underwriting notices become tracked, SLA-dated work items with two-way Slack | **0** regression failures at v2.10 · **2-way** Slack integration |
+| [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Six-track Florida license exam prep, 1,467 questions, desktop and web editions | **1,467** outline-mapped questions · **6** license tracks |
+| [Agency Training Program](https://forrestswan3.github.io/work/training-program/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Internal LMS: video modules, randomized assessments, remediation gates, manager reports | **39** automated tests passing · **1** Playwright end-to-end suite (web variant) |
+| [Secure Remote Access — pfSense Firewall + WireGuard VPN](https://forrestswan3.github.io/work/pfsense-wireguard-vpn/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Perimeter firewall and staff VPN for 20+ hybrid users, rolled out without admin rights | **20+** remote and in-office users · **$0** VPN licensing cost (WireGuard) |
+| [Agency File Server — QNAP NAS as System of Record](https://forrestswan3.github.io/work/qnap-nas/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | NAS as system of record: RAID 1, least-privilege access, snapshots and off-site backup | **~67,000** client-file items consolidated · **RAID 1** mirrored storage |
+| [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Built the IT function: budget, 81-system ledger, service desk with 1-day SLA, device lifecycle | **81** tools in the systems ledger · **41** as System Administrator |
+| [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Weekly past-due counts with OCR/spreadsheet import, Slack digest and EOS scorecard push | **9** releases in 15 days (v1.0 to v1.6.1) · **36** engine + integration tests |
 <!-- /gen -->
 
-➡️ **All case studies: [forrestswan3.github.io/work](https://forrestswan3.github.io/work/)**
+➡️ **All 20 case studies: [forrestswan3.github.io/work](https://forrestswan3.github.io/work/)** — source code is private; walkthroughs on request.
 
 ### Currently building
 
@@ -75,4 +89,20 @@ I built and run the IT and operations backbone of a Florida insurance agency. Th
 | [wireguard-nonadmin-windows](https://github.com/forrestswan3/wireguard-nonadmin-windows) | Rolls out WireGuard VPN to Windows users without admin rights: install, limited operator UI, health check, offboarding (PowerShell) |
 | [business-hours-sla](https://github.com/forrestswan3/business-hours-sla) | Google Sheets custom functions for business-hours SLA reporting, skipping nights, weekends and holidays (Apps Script) |
 
-<sub>Agency project source code is private; walkthroughs are available on request. The open-source tools above are generic and contain no organization data. Case studies omit staff names, network details and client data. Status badges are generated from a private project tracker; last updated <!-- gen:updated -->2026-10-20<!-- /gen -->.</sub>
+### Writing
+
+<!-- gen:writing -->
+- [Why a weekly file scan stalled over the VPN, and how the fix brought it to 24 minutes](https://forrestswan3.github.io/writing/vpn-throughput-root-cause/)
+- [Windows silently drops trailing periods from folder names, and your naming policy should know](https://forrestswan3.github.io/writing/windows-trailing-dots/)
+- [Rolling out WireGuard to 20+ Windows users without giving anyone admin rights](https://forrestswan3.github.io/writing/wireguard-without-admin-rights/)
+<!-- /gen -->
+
+### Stack
+
+<!-- gen:stack -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white) ![Slack API](https://img.shields.io/badge/Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white) ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<!-- /gen -->
+
+**How I work:** the agency's Microsoft 365 tenant is carrier-managed and blocks add-ins, macros and Power Automate, so everything is built with what is permitted — Google Apps Script, Python desktop apps, Zapier/n8n, and a self-hosted NAS — with policy as code, human review queues for anything an automation cannot decide, and an SOP, quick-reference guide and training module shipped with every system.
+
+<sub>Agency project source code is private; walkthroughs are available on request. The open-source tools above are generic and contain no organization data. Case studies omit staff names, network details and client data. Cards and badges are generated from a private project tracker; last updated <!-- gen:updated -->2026-10-20<!-- /gen -->.</sub>
