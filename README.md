@@ -17,6 +17,21 @@ I built and run the IT and operations backbone of a Florida insurance agency. Th
 - **Data governance & compliance:** policy-as-code, file-naming compliance auditing, QA sampling and scoring, SOP and quick-reference-guide development
 - **IT operations:** budget ownership, procurement and vendor management, IT service desk and SLAs, asset lifecycle management, onboarding and offboarding, EOS scorecards
 
+### This quarter
+
+<!-- gen:quarter -->
+**Q4 2026 · Oct 1 – Dec 31, 2026 · 21% of the quarter elapsed**
+
+| Delivered this quarter | New systems shipped | Improvements to existing systems |
+|:---:|:---:|:---:|
+| **17** | **1** | **16** |
+
+**New:** [UPS Battery-Backup Rollout](https://forrestswan3.github.io/work/ups-backup-rollout/) (Oct 2026)
+**Improvements:** 10-13 [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.5 In Metrics · 10-14 [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.16 round-robin assign, to-do scheduled, merge any item · 10-14 [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.6.1 onboarding trend chart · 10-15 [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.17 mass auto-assign · 10-15 [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.10.2 agency-processes pages · 10-19 [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) — Web edition (Apps Script) live under Team Resources › Training · 10-19 [Apps Script Toolkit](https://forrestswan3.github.io/work/apps-script-toolkit/) — Hub v1.12 (9 change logs 2026-09-24..10-15) · 10-19 [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.12 Exam Training Program tile · and 8 more
+
+<sub>Q3 2026: 21 delivered (11 new, 10 improvements). Counted from dated ship and release records in the private project tracker; regenerated on every tracker update.</sub>
+<!-- /gen -->
+
 ### Featured case studies
 
 <!-- gen:featured -->
