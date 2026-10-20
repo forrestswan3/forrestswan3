@@ -13,7 +13,7 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 ### This quarter
 
 <!-- gen:quarter -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/quarter-dark.svg"><img src="assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 17 delivered (1 new systems, 16 improvements)" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 17 delivered (1 new systems, 16 improvements)" width="820"></picture>
 
 <details><summary><b>Everything delivered in Q4 2026</b> (17) — click to expand</summary>
 
@@ -43,7 +43,7 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 ### Portfolio
 
 <!-- gen:glance -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/glance-dark.svg"><img src="assets/glance-light.svg" alt="Portfolio at a glance: 20 case studies, 12 in production, 2 in progress, 4 open-source tools" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-light.svg" alt="Portfolio at a glance: 20 case studies, 12 in production, 2 in progress, 4 open-source tools" width="820"></picture>
 <!-- /gen -->
 
 ### Featured case studies
