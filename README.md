@@ -17,19 +17,19 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 
 <details><summary><b>Everything delivered in Q4 2026</b> (17) — click to expand</summary>
 
-- 10/19 · [UPS Battery-Backup Rollout](https://forrestswan3.github.io/work/ups-backup-rollout/) — Shipped
-- 10/19 · [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) — Web edition (Apps Script) live under Team Resources › Training
 - 10/19 · [Apps Script Toolkit](https://forrestswan3.github.io/work/apps-script-toolkit/) — Hub v1.12 (9 change logs 2026-09-24..10-15)
+- 10/19 · [License Exam Prep](https://forrestswan3.github.io/work/license-exam-prep/) — Web edition (Apps Script) live under Team Resources › Training
 - 10/19 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.12 Exam Training Program tile
-- 10/15 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.17 mass auto-assign
+- 10/19 · [UPS Battery-Backup Rollout](https://forrestswan3.github.io/work/ups-backup-rollout/) — Shipped
 - 10/15 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.10.2 agency-processes pages
-- 10/14 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.16 round-robin assign, to-do scheduled, merge any item
+- 10/15 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.17 mass auto-assign
 - 10/14 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.6.1 onboarding trend chart
+- 10/14 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.16 round-robin assign, to-do scheduled, merge any item
 - 10/13 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.5 In Metrics
 - 10/09 · [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) — Scheduled tasks moved to hidden wrappers (no console windows)
-- 10/08 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.14 associated-with agent
 - 10/08 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Agency Handbook Training v1.0
 - 10/08 · [Documentation & Quick-Reference Guide Program](https://forrestswan3.github.io/work/documentation-program/) — Call Recording Scoring + Agency Handbook trainings
+- 10/08 · [UW Triage Engine + Board](https://forrestswan3.github.io/work/uw-triage/) — v2.14 associated-with agent
 - 10/07 · [Documentation & Quick-Reference Guide Program](https://forrestswan3.github.io/work/documentation-program/) — Core Process → Quick-Reference Guide rename
 - 10/02 · [FileGate — Naming Compliance Auditor + AI Intake](https://forrestswan3.github.io/work/filegate/) — Scan Dashboard v1.4 two-year activity window
 - 10/02 · [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) — v1.4.1–v1.4.3 onboarding handling
@@ -37,7 +37,7 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 
 </details>
 
-<sub>Q3 2026: 21 delivered (11 new, 10 improvements). A delivery is a dated ship or release record in the private project tracker; the card regenerates on every tracker update.</sub>
+<sub>Q3 2026: 21 delivered (11 new, 10 improvements). A delivery is a dated ship or release record in the private project tracker; the card regenerates on every tracker update. The same numbers power the <a href="https://forrestswan3.github.io/work/timeline/">delivery timeline</a> on the site.</sub>
 <!-- /gen -->
 
 ### Portfolio
