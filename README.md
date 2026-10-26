@@ -8,16 +8,17 @@
 
 I built and run the IT and operations backbone of a Florida insurance agency: the firewall, VPN and file server; the IT budget and service desk; and the internal software the team works in every day — AI-assisted document intake, underwriting-notice triage, a staff portal with its own KPI and task trackers, and training and licensing apps. Everything below is generated from a private project tracker, so the numbers are current.
 
-[![Website](https://img.shields.io/badge/Website-forrestswan3.github.io-1D726C?style=flat-square)](https://forrestswan3.github.io/) [![Case studies](https://img.shields.io/badge/Case%20studies-22-2C9C95?style=flat-square)](https://forrestswan3.github.io/work/) [![Resume](https://img.shields.io/badge/Resume-PDF-0B1F33?style=flat-square)](https://forrestswan3.github.io/resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-forrestswan3-0A66C2?style=flat-square)](https://www.linkedin.com/in/forrestswan3/) [![Contact](https://img.shields.io/badge/Contact-forrestswan3.github.io%2Fcontact-3A6EA5?style=flat-square)](https://forrestswan3.github.io/contact/)
+[![Website](https://img.shields.io/badge/Website-forrestswan3.github.io-1D726C?style=flat-square)](https://forrestswan3.github.io/) [![Case studies](https://img.shields.io/badge/Case%20studies-23-2C9C95?style=flat-square)](https://forrestswan3.github.io/work/) [![Resume](https://img.shields.io/badge/Resume-PDF-0B1F33?style=flat-square)](https://forrestswan3.github.io/resume.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-forrestswan3-0A66C2?style=flat-square)](https://www.linkedin.com/in/forrestswan3/) [![Contact](https://img.shields.io/badge/Contact-forrestswan3.github.io%2Fcontact-3A6EA5?style=flat-square)](https://forrestswan3.github.io/contact/)
 
 ### This quarter
 
 <!-- gen:quarter -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 26 delivered (3 new systems, 23 improvements)" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 27 delivered (3 new systems, 24 improvements)" width="820"></picture>
 
-<details><summary><b>Everything delivered in Q4 2026</b> (26) — click to expand</summary>
+<details><summary><b>Everything delivered in Q4 2026</b> (27) — click to expand</summary>
 
 - 10/26 · [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) — Public website administration: former-vendor admin access removed, PHP 8.2 to 8.3, Site Health 3 to 0 recommendations, expired social-feed token restored
+- 10/26 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.18: public agency website tile first in Resources
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Ninety.io (my90) training module: SOP, Quick-Reference Guide, 32-minute video, 57-question bank
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Exam Training Program training module: 8 knowledge-base pages, SOP, Quick-Reference Guide, 19-minute video, 51-question bank
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — IT Support with Alex training module: 7 knowledge-base pages, SOP, Quick-Reference Guide, 13-minute video, 50-question bank
@@ -52,7 +53,7 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 ### Portfolio
 
 <!-- gen:glance -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-light.svg" alt="Portfolio at a glance: 22 case studies, 12 in production, 2 in progress, 4 open-source tools" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-light.svg" alt="Portfolio at a glance: 23 case studies, 12 in production, 3 in progress, 4 open-source tools" width="820"></picture>
 <!-- /gen -->
 
 ### Featured case studies
@@ -70,22 +71,23 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 | [Past-Due Task Tracker](https://forrestswan3.github.io/work/past-due-tracker/) | ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square) | Weekly past-due counts with OCR/spreadsheet import, Slack digest and EOS scorecard push | **9** releases in 15 days (v1.0 to v1.6.1) · **36** engine + integration tests |
 <!-- /gen -->
 
-➡️ **All 22 case studies: [forrestswan3.github.io/work](https://forrestswan3.github.io/work/)** — source code is private; walkthroughs on request.
+➡️ **All 23 case studies: [forrestswan3.github.io/work](https://forrestswan3.github.io/work/)** — source code is private; walkthroughs on request.
 
 ### Currently building
 
 <!-- gen:building -->
 - [Audit & Compliance Scoring System](https://forrestswan3.github.io/work/audit-system/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
 - [Remote Printing Service](https://forrestswan3.github.io/work/remote-print-server/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
+- [UW Triage Board — Developer Handoff for a Web-Platform Rebuild](https://forrestswan3.github.io/work/uw-triage-platform-handoff/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
 <!-- /gen -->
 
 ### Recently shipped or updated
 
 <!-- gen:recent -->
 - Oct 2026 · [Form Platform Migration — 24 Forms to Google Forms](https://forrestswan3.github.io/work/forms-migration/) ![Shipped](https://img.shields.io/badge/Shipped-3A6EA5?style=flat-square)
+- Oct 2026 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 - Oct 2026 · [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 - Oct 2026 · [AI IT Support Agent — Slack and Web Chat](https://forrestswan3.github.io/work/it-support-agent/) ![Shipped](https://img.shields.io/badge/Shipped-3A6EA5?style=flat-square)
-- Oct 2026 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 - Oct 2026 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 <!-- /gen -->
 
