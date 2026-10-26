@@ -13,12 +13,13 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 ### This quarter
 
 <!-- gen:quarter -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 27 delivered (3 new systems, 24 improvements)" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/quarter-light.svg" alt="Q4 2026 delivery scorecard: 28 delivered (4 new systems, 24 improvements)" width="820"></picture>
 
-<details><summary><b>Everything delivered in Q4 2026</b> (27) — click to expand</summary>
+<details><summary><b>Everything delivered in Q4 2026</b> (28) — click to expand</summary>
 
 - 10/26 · [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) — Public website administration: former-vendor admin access removed, PHP 8.2 to 8.3, Site Health 3 to 0 recommendations, expired social-feed token restored
 - 10/26 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) — Hub v1.18: public agency website tile first in Resources
+- 10/26 · [UW Triage Board — Developer Handoff for a Web-Platform Rebuild](https://forrestswan3.github.io/work/uw-triage-platform-handoff/) — Shipped
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Ninety.io (my90) training module: SOP, Quick-Reference Guide, 32-minute video, 57-question bank
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — Exam Training Program training module: 8 knowledge-base pages, SOP, Quick-Reference Guide, 19-minute video, 51-question bank
 - 10/23 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) — IT Support with Alex training module: 7 knowledge-base pages, SOP, Quick-Reference Guide, 13-minute video, 50-question bank
@@ -53,7 +54,7 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 ### Portfolio
 
 <!-- gen:glance -->
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-light.svg" alt="Portfolio at a glance: 23 case studies, 12 in production, 3 in progress, 4 open-source tools" width="820"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-dark.svg"><img src="https://raw.githubusercontent.com/forrestswan3/forrestswan3/main/assets/glance-light.svg" alt="Portfolio at a glance: 23 case studies, 12 in production, 2 in progress, 4 open-source tools" width="820"></picture>
 <!-- /gen -->
 
 ### Featured case studies
@@ -78,17 +79,16 @@ I built and run the IT and operations backbone of a Florida insurance agency: th
 <!-- gen:building -->
 - [Audit & Compliance Scoring System](https://forrestswan3.github.io/work/audit-system/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
 - [Remote Printing Service](https://forrestswan3.github.io/work/remote-print-server/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
-- [UW Triage Board — Developer Handoff for a Web-Platform Rebuild](https://forrestswan3.github.io/work/uw-triage-platform-handoff/) ![In Progress](https://img.shields.io/badge/In_Progress-9A6700?style=flat-square)
 <!-- /gen -->
 
 ### Recently shipped or updated
 
 <!-- gen:recent -->
+- Oct 2026 · [UW Triage Board — Developer Handoff for a Web-Platform Rebuild](https://forrestswan3.github.io/work/uw-triage-platform-handoff/) ![Shipped](https://img.shields.io/badge/Shipped-3A6EA5?style=flat-square)
 - Oct 2026 · [Form Platform Migration — 24 Forms to Google Forms](https://forrestswan3.github.io/work/forms-migration/) ![Shipped](https://img.shields.io/badge/Shipped-3A6EA5?style=flat-square)
 - Oct 2026 · [Team Resources Portal + Quick-Launch Hub](https://forrestswan3.github.io/work/team-resources/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 - Oct 2026 · [Establishing the Agency IT Department](https://forrestswan3.github.io/work/it-department/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 - Oct 2026 · [AI IT Support Agent — Slack and Web Chat](https://forrestswan3.github.io/work/it-support-agent/) ![Shipped](https://img.shields.io/badge/Shipped-3A6EA5?style=flat-square)
-- Oct 2026 · [Agency Training Program](https://forrestswan3.github.io/work/training-program/) ![Maintained](https://img.shields.io/badge/Maintained-2C9C95?style=flat-square)
 <!-- /gen -->
 
 ### Open-source tools
